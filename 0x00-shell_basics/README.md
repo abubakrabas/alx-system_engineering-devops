@@ -1,1 +1,1 @@
-script prints path of current directory
+script prints path of current directory in long format
